@@ -1,0 +1,1413 @@
+{
+  "sales": [
+    {
+      "week": 
+      [
+        {
+          "monday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "tuesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "wednesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "thursday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "friday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "saturday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "sunday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "total": {
+            "total": 14.291,
+            "percentages": "76%"
+          }
+        },
+        {
+          "monday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "tuesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "wednesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "thursday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "friday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "saturday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "sunday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "total": {
+            "total": 14.291,
+            "percentages": "76%"
+          }
+        },
+        {
+          "monday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 37.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "tuesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "wednesday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "thursday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "friday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "saturday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "sunday": [
+            {
+              "id": 1,
+              "brand": "Silk",
+              "numbers": 35.26,
+              "percentages": "46%"
+            },
+            {
+              "id": 2,
+              "brand": "Farm",
+              "numbers": 22.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 3,
+              "brand": "Nestle",
+              "numbers": 10.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 4,
+              "brand": "myMilk",
+              "numbers": 22.22,
+              "percentages": "46%"
+            },
+            {
+              "id": 5,
+              "brand": "MuuMilk",
+              "numbers": 67.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 6,
+              "brand": "SoyMilk",
+              "numbers": 72.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 7,
+              "brand": "Dairy",
+              "numbers": 33.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 8,
+              "brand": "Sick",
+              "numbers": 36.66,
+              "percentages": "46%"
+            },
+            {
+              "id": 9,
+              "brand": "Cow",
+              "numbers": 32.46,
+              "percentages": "46%"
+            },
+            {
+              "id": 10,
+              "brand": "Cow",
+              "numbers": 11.46,
+              "percentages": "46%"
+            },
+            {
+              "total": 10.458,
+              "percentages": "50%"
+            }
+          ],
+          "total": {
+            "total": 14.291,
+            "percentages": "76%"
+          }
+        }
+      ]
+    }
+  ]
+}

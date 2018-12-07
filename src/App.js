@@ -1,26 +1,22 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+// Import data
+import data from './api.json';
+
+// Bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/js/bootstrap.js';
+
+import Header from './components/Header/Header';
+import Table from './components/Table/Table';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <React.Fragment>
+        <Header/>
+        <Table data={data} />
+      </React.Fragment>
     );
   }
 }
