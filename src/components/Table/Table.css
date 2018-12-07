@@ -84,13 +84,13 @@ Table
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   grid-gap: .75em;
-  border-bottom: 1px solid #F5F6FA;
+  border-bottom: 1px solid rgba(201, 204, 223, 0.705);
 }
 
 .ctable__body--col article {
   margin: 1em 0;
   padding-bottom: .75em;
-  border-bottom: 1px solid #F5F6FA;
+  border-bottom: 1px solid #f5f5f5;
 }
 
 .ctable__body--cell .ctable__body--title {

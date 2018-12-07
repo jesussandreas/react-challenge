@@ -9,6 +9,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Header from './components/Header/Header';
 import Table from './components/Table/Table';
+import Results from './components/Results/Results';
+import Footer from './components/Footer/Footer';
 
 class App extends Component {
   render() {
@@ -16,6 +18,8 @@ class App extends Component {
       <React.Fragment>
         <Header/>
         <Table data={data} />
+        <Results/>
+        <Footer/>
       </React.Fragment>
     );
   }
