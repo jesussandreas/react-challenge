@@ -1,9 +1,0 @@
-:root {
-  --color-primary: #746CE7; 
-  --font-primary: 'Source Sans Pro';
-}
-
-body {
-  background: #F8F9FD !important;
-  font-family: var(--font-primary), sans-serif;
-}
