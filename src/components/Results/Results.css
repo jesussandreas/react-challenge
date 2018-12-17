@@ -1,0 +1,40 @@
+/* 
+============================
+Results
+============================
+*/
+
+.grid__results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  align-items: center;
+  justify-items: center;
+  grid-gap: 1em;
+  margin: 2em 0;
+}
+
+.card__result {
+  background: white;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.07);
+  min-width: 300px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__result img {
+  max-width: 100px; 
+  padding: .65em;
+  margin: 1em;
+}
+
+.card__result div {
+  padding: .65em;
+  margin: 1em;
+}
+
+.card__result h4 {
+  margin: 1em 0 .45em;
+  color: #4D4F5C;
+}
