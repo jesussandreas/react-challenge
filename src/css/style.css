@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Unica+One');
-
 .order-enter {
   -webkit-transform: translateX(-120%);
           transform: translateX(-120%);
@@ -92,10 +90,7 @@ audio:not([controls]) {
   display: none;
 }
 html {
-  font-family: 'Unica One', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: #505050;
+  font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -236,7 +231,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background: #f1f1f1;
+  background: #d4d4d4;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Open Sans', sans-serif;
@@ -328,7 +323,7 @@ header.top h3:after {
   top: auto;
   bottom: 7px;
 }
-.catch-of-the-day {
+.pick-of-the-day {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -341,7 +336,7 @@ header.top h3:after {
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
 }
-.catch-of-the-day > * {
+.pick-of-the-day > * {
   -webkit-box-flex: 1;
       -ms-flex: 1 4 auto;
           flex: 1 4 auto;
@@ -356,7 +351,7 @@ header.top h3:after {
           box-shadow: 0 5px 10px rgba(0,0,0,0.075);
   overflow: scroll;
 }
-.catch-of-the-day > *:first-child {
+.pick-of-the-day > *:first-child {
   -ms-flex-negative: 1;
       flex-shrink: 1;
   -ms-flex-preferred-size: 50%;
@@ -364,14 +359,14 @@ header.top h3:after {
   -webkit-transform: translateX(50%) rotateY(6deg) translateX(-50%);
           transform: translateX(50%) rotateY(6deg) translateX(-50%);
 }
-.catch-of-the-day > *:nth-child(2) {
+.pick-of-the-day > *:nth-child(2) {
   -webkit-transform: translateX(-50%) rotateY(-14deg) translateX(50%);
           transform: translateX(-50%) rotateY(-14deg) translateX(50%);
   border-left: 0;
   border-right: 0;
   min-width: 300px;
 }
-.catch-of-the-day > *:last-child {
+.pick-of-the-day > *:last-child {
   -ms-flex-negative: 1;
       flex-shrink: 1;
   -ms-flex-preferred-size: 50%;
@@ -379,7 +374,7 @@ header.top h3:after {
   -webkit-transform: translateX(-50%) rotateY(10deg) translateX(50%) scale(1.08) translateX(24px);
           transform: translateX(-50%) rotateY(10deg) translateX(50%) scale(1.08) translateX(24px);
 }
-input#fold:not(:checked) ~ #main .catch-of-the-day > * {
+input#fold:not(:checked) ~ #main .pick-of-the-day > * {
   -webkit-transform: none;
           transform: none;
 }
@@ -453,7 +448,7 @@ ul.order li span.count span {
 .order-title {
   text-align: center;
 }
-.fish-edit {
+.fruit-edit {
   margin-bottom: 20px;
   border: 2px solid #000;
   overflow: hidden;
@@ -463,9 +458,9 @@ ul.order li span.count span {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
-.fish-edit input,
-.fish-edit textarea,
-.fish-edit select {
+.fruit-edit input,
+.fruit-edit textarea,
+.fruit-edit select {
   width: 33.33%;
   padding: 10px;
   line-height: 1;
@@ -479,23 +474,23 @@ ul.order li span.count span {
   border-radius: 0;
   background: #fff;
 }
-.fish-edit input:focus,
-.fish-edit textarea:focus,
-.fish-edit select:focus {
+.fruit-edit input:focus,
+.fruit-edit textarea:focus,
+.fruit-edit select:focus {
   outline: 0;
   background: #ffe8e3;
 }
-.fish-edit textarea {
+.fruit-edit textarea {
   width: 100%;
 }
-.fish-edit input:last-of-type {
+.fruit-edit input:last-of-type {
   width: 100%;
 }
-.fish-edit button {
+.fruit-edit button {
   width: 100%;
   border: 0;
 }
-.list-of-fish {
+.list-of-fruit {
   border-top: 2px solid #000;
   border-bottom: 1px solid #000;
   padding-top: 5px;
@@ -503,7 +498,7 @@ ul.order li span.count span {
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
 }
-.menu-fish {
+.menu-fruit {
   border-bottom: 2px solid #000;
   border-top: 1px solid #000;
   padding-bottom: 2rem;
@@ -512,11 +507,11 @@ ul.order li span.count span {
   clear: both;
   overflow: hidden;
 }
-.menu-fish p {
+.menu-fruit p {
   margin: 0;
   font-size: 1.8rem;
 }
-.menu-fish .fish-name {
+.menu-fruit .fruit-name {
   margin: 0;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -528,13 +523,13 @@ ul.order li span.count span {
       -ms-flex-align: center;
           align-items: center;
 }
-.menu-fish .price {
+.menu-fruit .price {
   font-size: 1.4rem;
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
 }
-.menu-fish img {
+.menu-fruit img {
   float: left;
   width: 150px;
   margin-right: 1rem;
